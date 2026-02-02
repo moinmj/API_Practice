@@ -1,0 +1,52 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb
+
+# Data and models
+*.csv
+*.xlsx
+*.json
+*.pkl
+*.h5
+*.model
+data/
+models/
+
+# Environment variables
+.env
+.env.local
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Pip
+*.egg-info/
+dist/
+build/
+
+# Logs
+*.log
+
+# Projects
+Projects/
+Projects/*
+
+# jpg
+*.jpg
